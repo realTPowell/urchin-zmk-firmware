@@ -101,7 +101,7 @@
 			label = "Sett.";
 			bindings = <
 			    &bootloader &none &none &none &none		&none &none &none &none &bootloader
-			&none &none &bt BT_CLR &bt BT_PRV &none		&none &bt BT_NXT &BT_CLR &none &none
+			&none &none &bt BT_CLR &bt BT_PRV &none		&none &bt BT_NXT &bt BT_CLR &none &none
 				  &none &none &none &none &none		&none &none &none &none &none
 						    &none &none		&none &none 
 			>;
